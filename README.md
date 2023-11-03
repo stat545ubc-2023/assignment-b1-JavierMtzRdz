@@ -12,8 +12,8 @@ This repository contains the `indexing()` function, which creates an index from 
 
 This repository includes three documents:
 
--   [`indexing.rmd`](./indexing.rmd): This file contains the code to load the `indexing()` function, along with examples and tests.
--   [`indexing.md`](./indexing.rm): A markdown document compiled from `indexing.rmd`.
+-   `indexing.rmd`: This file contains the code to load the `indexing()` function, examples and tests.
+-   `indexing.md`: A markdown document compiled from `indexing.rmd`.
 -   [`indexing_files`](./indexing_files/): This folder contains the necessary files for the markdown document.
 
 ## How to Run Code from This Repository
